@@ -1,0 +1,1 @@
+To run this, run main_analysis first and create_log_reg afterwards. All results will be in a folder called experiments. The initial data (the promtps from R1) will be copied to the same folder to make it easier to know which initial data belongs to each set of results
